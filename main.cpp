@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/* Массив с циклом */
+/* РњР°СЃСЃРёРІ СЃ С†РёРєР»РѕРј */
 
 int main()
 {
